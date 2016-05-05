@@ -1,1 +1,1 @@
-# wabo-api
+# Skeleton project for Swagger
